@@ -6,3 +6,6 @@ Rewite AMCL code
       <source id="mp4" src="https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL2.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
+
+
+[![Watch the video](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL_pic.jpg)](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL2.mp4)
