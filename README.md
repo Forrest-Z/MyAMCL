@@ -12,3 +12,5 @@ Rewite AMCL code
 
 
 [![Watch the video](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL_pic.jpg)](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL2.mp4)
+
+<iframe height=498 width=510 src="https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL2.mp4">
