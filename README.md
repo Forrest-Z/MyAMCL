@@ -8,4 +8,4 @@ Rewite AMCL code
 </video>
 
 
-[![Watch the video](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL_pic.jpg)](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL2.mp4)
+[![Watch the video](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL2.mp4)]
