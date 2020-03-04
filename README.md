@@ -10,8 +10,7 @@ Rewite AMCL code
 
 [![Watch the video](E:\Photo\competition\FSAC\MyAMCL2.mp4)]
 
-
-[![Watch the video](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL_pic.jpg)](E:\Photo\competition\FSAC\MyAMCL2.mp4)
+![Watch the video](E:\Photo\competition\FSAC\MyAMCL2.mp4)
 
 <iframe height=498 width=510 src="E:\Photo\competition\FSAC\MyAMCL2.mp4">
 
