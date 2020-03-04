@@ -9,3 +9,6 @@ Rewite AMCL code
 
 
 [![Watch the video](https://raw.githubusercontent.com/ShifanZhu/MyPhotos/master/MyAMCL2.mp4)]
+
+
+[![Demo CountPages alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
